@@ -50,8 +50,9 @@ Each problem folder contains a `README.md` generated from the template below:
 
 ```md
 # Problem:  
-**Pattern:**  
-**Difficulty:**  
+
+- **Pattern:**  
+- **Difficulty:**  
 
 ## Intuition
 A brief overview (2–3 lines) of the core idea that unlocks the problem.
