@@ -48,7 +48,7 @@ Each folder is named:
 
 Each problem folder contains a `README.md` generated from the template below:
 
-````md
+```md
 # Problem:  
 **Pattern:**  
 **Difficulty:**  
