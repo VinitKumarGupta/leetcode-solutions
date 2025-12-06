@@ -2,8 +2,6 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=LeetCode%20Solutions&width=900&height=200" />
 </p>
 
-
-
 <p align="center">
   <b>Clean, structured, and fully documented Java solutions for LeetCode problems.</b>
 </p>

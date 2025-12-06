@@ -33,6 +33,7 @@ This ensures we only scan each character once.
 
 ## Notes
 
-* This problem taught me the real meaning of a *sliding window*; especially how shrinking the window is as important as expanding it.
+* This problem taught me the *sliding window* approach.
+* How shrinking the window is as important as expanding it.
 * Even though there are two loops, the answer is still `O(n)` because both pointers move forward only.
 * A hashmap-based version also exists (jumping the left pointer directly), but the HashSet version is more intuitive and a better starting point.
