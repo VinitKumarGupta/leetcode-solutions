@@ -26,6 +26,9 @@ Thumbs.db
 # Script file
 *.sh
 
+# Template file used by the script
+TEMPLATE.md
+
 # Temporary files
 *.tmp
 *.temp
